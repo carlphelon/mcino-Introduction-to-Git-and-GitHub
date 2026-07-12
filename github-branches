@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert 11b4ecb Revert "Fix README footer typo"
+  bug-fix-typo   ec30a68 [origin/bug-fix-typo] Fix README footer typo
+  main           ec30a68 [origin/main: ahead 1] Fix README footer typo
